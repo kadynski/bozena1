@@ -8,7 +8,6 @@ header {
   text-align: center;
   color: #111111;
   margin: 0;
-  overflow: hidden;
   }
   footer {
     background-color: rgb(217,228,221, 0.7);
@@ -32,6 +31,7 @@ h1 {
   margin: 200px auto 100px auto;
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
+  overflow: hidden;
 }
 .navlist {
     list-style-type: none;
