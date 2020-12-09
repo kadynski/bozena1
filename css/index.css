@@ -1,0 +1,86 @@
+body {
+  background-image: url('wlosy.jpg');
+  background-size: cover;
+  margin: 0;
+}
+header {
+  background-color: rgb(217,228,221, 0.7);
+  text-align: center;
+  color: #111111;
+  margin: 0;
+  overflow: hidden;
+  }
+  footer {
+    background-color: rgb(217,228,221, 0.7);
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    height: 20px;
+    font-size: 16px;
+  }
+h1 {
+  margin-top: 0;
+  padding:110px 0 0 0;
+  line-height: 16px;
+  font-size: 68px;
+  font-family: 'Leckerli One', cursive;
+}
+.maincontainer {
+  height: 330px;
+  width: 500px;
+  background-color: rgb(217,228,221, 0.7);
+  margin: 200px auto 100px auto;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+.navlist {
+    list-style-type: none;
+    font-size: 40px;
+}
+.navlist > li {
+    display: inline-block;
+    padding: 10px 20px 10px 20px;
+    border-right: 1px dashed #cdc9c3;
+    text-shadow: 1px 1px #fcf8ec;
+}
+.navlist > li:first-child{
+  border-left: 2px dashed #cdc9c3;
+}
+.navbar a {
+  text-decoration: none;
+  color: #222831;
+}
+.navbar a:hover {
+  color: #fcf8ec;
+  text-shadow: 2px 2px #555555;
+}
+.navbar {
+  margin-top: 0;
+}
+.adress {
+  float: left;
+  padding: 30px;
+  line-height: 1.5;
+}
+.openings  {
+float: left;
+
+}
+.openingsdiv {
+    padding: 30px;
+}
+a {
+  color: black;
+}
+#cennik {
+  background-color: rgb(217,228,221, 0.7);
+  height: 400px;
+  width: 300px;
+  padding: 30px;
+  background-size: cover;
+  margin:100px auto 100px auto;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
